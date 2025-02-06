@@ -4,7 +4,7 @@ import services3 from "../assets/images/services3.png";
 import services4 from "../assets/images/services4.png";
 import services5 from "../assets/images/services5.png";
 import services6 from "../assets/images/services6.png";
-import LearnMore from "./LearnMore";
+
 
 const ServiceInfo = () => {
   const services = [
